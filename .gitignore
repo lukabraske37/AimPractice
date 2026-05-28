@@ -1,0 +1,53 @@
+# Visual Studio cache/options
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# ReSharper
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diagnostic files
+*.trx
+
+# Coverage Reports
+coverage/
+*.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Project-specific
+.ApplePlatformToolset/
+.TargetFramework/
+
+# Testing
+TestResults/
