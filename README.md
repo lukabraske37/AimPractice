@@ -87,7 +87,7 @@ Ovaj projekat je otvoren kod i dostupan pod MIT licencom.
 
 ## 👨‍💻 Autor
 
-**Luka Braske** - [GitHub Profil](https://github.com/lukabraske37)
+**Luka B.** - [GitHub Profil](https://github.com/lukabraske37)
 
 ## 📧 Povratna informacija
 
