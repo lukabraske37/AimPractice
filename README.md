@@ -83,7 +83,7 @@ AimPractice/
 
 Evo kako izgleda igra tokom partije:
 
-![AimPractice Gameplay Screenshot](https://github.com/lukabraske37/AimPractice/raw/main/screenshot.png)
+![AimPractice Gameplay Screenshot](https://github.com/lukabraske37/AimPractice/raw/main/gameplay-screenshot.png)
 
 ---
 
