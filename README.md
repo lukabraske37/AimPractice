@@ -79,6 +79,14 @@ AimPractice/
 
 ---
 
+# Screenshot
+
+Evo kako izgleda igra tokom partije:
+
+![AimPractice Gameplay Screenshot](https://github.com/lukabraske37/AimPractice/raw/main/screenshot.png)
+
+---
+
 # Buduća Poboljšanja
 
 * Difficulty sistem
@@ -88,16 +96,6 @@ AimPractice/
 * Settings meni
 * Različite veličine meta
 * Animacije i efekti
-
----
-
-# Screenshot
-
-Dodaj screenshot igre ovde.
-
-```md
-![AimPractice Screenshot](screenshot.png)
-```
 
 ---
 
